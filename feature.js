@@ -6,4 +6,3 @@ function selectId(i){return document.getElementById(i)}
 
 
 log('4')
-
