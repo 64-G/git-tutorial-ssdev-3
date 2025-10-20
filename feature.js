@@ -5,4 +5,5 @@ function selectClAll(c){return document.querySelectorAll(`.${c}`)}
 function selectId(i){return document.getElementById(i)}
 
 
-log('conflict 2')
+log('conflict 1')
+
