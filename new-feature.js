@@ -5,4 +5,4 @@ function selectClAll(c){return document.querySelectorAll(`.${c}`)}
 function selectId(i){return document.getElementById(i)}
 
 
-log('new feature1')
+log('new feature2')
